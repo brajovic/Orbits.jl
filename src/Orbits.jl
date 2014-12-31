@@ -6,6 +6,6 @@ function orbits(x::Int)
 x+7
 end
 
-export orbits
+export orbits, EccAnom
 
 end # module
